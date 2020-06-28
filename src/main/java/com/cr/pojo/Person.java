@@ -6,6 +6,7 @@ package com.cr.pojo;
 public class Person {
     private String id;
     private String name;
+    private int age;
 
     public String getId() {
         return id;
